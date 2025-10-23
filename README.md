@@ -1,16 +1,27 @@
-# bubble_tea_tracker
+# 🧋 Bubble Tea Tracker
 
-A new Flutter project.
+A simple Flutter app to record your daily bubble tea drinks.  
+Keep track of what you’ve tried, rate your favorites, and explore new ones!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Add and record daily bubble tea orders  
+- Rate each drink (taste, sugar level, topping)  
+- View your drink history  
+- Clean and minimal Flutter UI  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Framework:** Flutter (Dart)  
+- **Platforms:** iOS / Android / Web  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📦 Getting Started
+```bash
+git clone https://github.com/kentloong0623/bubble_tea_tracker.git
+cd bubble_tea_tracker
+flutter pub get
+flutter run
